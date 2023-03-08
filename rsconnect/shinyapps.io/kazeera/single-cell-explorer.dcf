@@ -1,0 +1,13 @@
+name: single-cell-explorer
+title: single-cell-explorer
+username:
+account: kazeera
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8495033
+bundleId: 6923335
+url: https://kazeera.shinyapps.io/single-cell-explorer/
+when: 1678141903.96675
+lastSyncTime: 1678141903.96675
+asMultiple: FALSE
+asStatic: FALSE
